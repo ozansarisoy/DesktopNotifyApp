@@ -3,4 +3,5 @@ Desktop notification program
 
 
 
-https://github.com/ozansarisoy/DesktopNotifyApp/assets/50779398/f92c99f4-9e3d-41b0-882b-05671f317176
+![desktop notify app ss](https://github.com/ozansarisoy/DesktopNotifyApp/assets/50779398/450ffe96-fa96-4baa-a6b7-caa0f69eb97f)
+
